@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMP-hard.aternos.me",
-    "port": 41738,
+    "ip": "",
+    "port": ,
     "version": "26.2",
     "try-creative": false
   },
